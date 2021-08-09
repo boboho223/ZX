@@ -7,4 +7,4 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-04-231ef44c657a/locations/europe-west1/workerPools/KASUR'
+    name: 'projects/qwiklabs-gcp-04-231ef44c657a/locations/europe-west2/workerPools/KASUR'
